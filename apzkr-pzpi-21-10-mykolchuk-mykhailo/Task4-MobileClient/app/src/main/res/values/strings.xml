@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">APZ-mobile</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="nav_cars">Cars</string>
+    <string name="nav_subordinates">Subordinates</string>
+    <string name="nav_sensors">Sensors</string>
+
+    <string name="car_fragment_car_added">Date added: </string>
+    <string name="car_detail_sensor">No sensor</string>
+    <string name="car_detail_engine_speeds_button">Engine speeds</string>
+    <string name="car_detail_sudden_braking_button">Sudden braking</string>
+    <string name="car_detail_drivers">Drivers</string>
+
+    <string name="car_detail_trip_start">Trip start: </string>
+    <string name="car_detail_trip_end">Trip end: </string>
+    <string name="car_detail_fast_start_back">Fast start back</string>
+    <string name="car_detail_fast_start_front">Fast start forward</string>
+    <string name="car_detail_normal_start">Normal start</string>
+    <string name="car_detail_left_turns">Left turns: </string>
+    <string name="car_detail_right_turns">Right turns: </string>
+    <string name="car_detail_deng_left_turns">Dangerous left turns: </string>
+    <string name="car_detail_deng_right_turns">Dangerous right turns: </string>
+
+    <string name="engine_moment_start">Begin: </string>
+    <string name="engine_moment_end">End: </string>
+    <string name="avg_engine_speed">Avg eng. speed: </string>
+    <string name="hide_engine_speeds">Hide Engine Speeds</string>
+    <string name="show_engine_speeds">Show Engine Speeds</string>
+    <string name="hide_sudden_braking">Hide Sudden Braking</string>
+    <string name="show_sudden_braking">Show Sudden Braking</string>
+    <string name="sudden_braking_time">Time: </string>
+    <string name="sudden_braking_start_speed">Initial speed: </string>
+    <string name="sudden_braking_end_speed">Subsequent speed: </string>
+
+    <string-array name="user_types">
+        <item>Person</item>
+        <item>Company</item>
+    </string-array>
+</resources>

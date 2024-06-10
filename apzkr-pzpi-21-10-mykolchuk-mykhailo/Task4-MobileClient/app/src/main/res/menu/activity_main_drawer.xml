@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_cars"
+            android:icon="@drawable/sedan"
+            android:title="@string/nav_cars" />
+        <item
+            android:id="@+id/nav_subordinates"
+            android:icon="@drawable/subordinates"
+            android:title="@string/nav_subordinates" />
+
+        <item
+            android:id="@+id/nav_sensors"
+            android:icon="@drawable/sensor"
+            android:title="@string/nav_sensors" />
+    </group>
+</menu>

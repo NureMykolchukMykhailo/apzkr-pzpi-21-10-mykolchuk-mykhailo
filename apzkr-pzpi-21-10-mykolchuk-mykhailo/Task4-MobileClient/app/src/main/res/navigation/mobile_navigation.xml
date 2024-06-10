@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_cars">
+
+    <fragment
+        android:id="@+id/nav_cars"
+        android:name="com.example.apz_mobile.ui.cars.CarsFragment"
+        android:label="Cars"
+        tools:layout="@layout/fragment_cars" />
+
+    <fragment
+        android:id="@+id/nav_subordinates"
+        android:name="com.example.apz_mobile.ui.subordinate.SubordinatesFragment"
+        android:label="Subordinate"
+        tools:layout="@layout/fragment_subordinates" />
+
+    <fragment
+        android:id="@+id/nav_sensors"
+        android:name="com.example.apz_mobile.ui.sensors.SensorsFragment"
+        android:label="Sensor"
+        tools:layout="@layout/fragment_sensors" />
+</navigation>

@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">APZ-mobile</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="action_exit">Вихід</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="nav_cars">Автомобілі</string>
+    <string name="nav_subordinates">Підлеглі водії</string>
+    <string name="nav_sensors">Датчики</string>
+
+    <string name="car_fragment_car_added">Дата додавання: </string>
+    <string name="car_detail_sensor">Немає сенсора</string>
+    <string name="car_detail_engine_speeds_button">Оберти двигуна</string>
+    <string name="car_detail_sudden_braking_button">Різке гальмування</string>
+    <string name="car_detail_drivers">Водії</string>
+
+    <string name="car_detail_trip_start">Початок поїздки: </string>
+    <string name="car_detail_trip_end">Кінець поїздки: </string>
+    <string name="car_detail_fast_start_back">Швидкий старт назад</string>
+    <string name="car_detail_fast_start_front">Швидкий старт вперед</string>
+    <string name="car_detail_normal_start">Звичайний старт</string>
+    <string name="car_detail_left_turns">Лівих поворотів: </string>
+    <string name="car_detail_right_turns">Правих поворотів: </string>
+    <string name="car_detail_deng_left_turns">Небезпечних лівих поворотів: </string>
+    <string name="car_detail_deng_right_turns">Небезпечних правих поворотів: </string>
+
+        <string name="engine_moment_start">Початок: </string>
+        <string name="engine_moment_end">Кінець: </string>
+        <string name="avg_engine_speed">Серед. оберти двигуна: </string>
+        <string name="hide_engine_speeds">Сховати оберти</string>
+        <string name="show_engine_speeds">Оберти двигуна</string>
+        <string name="hide_sudden_braking">Сховати гальмування</string>
+        <string name="show_sudden_braking">Різке гальмування</string>
+    <string name="sudden_braking_time">Час: </string>
+    <string name="sudden_braking_start_speed">Початкова швидкість: </string>
+    <string name="sudden_braking_end_speed">Наступна швидкість: </string>
+
+
+
+    <string-array name="user_types">
+        <item>Людина</item>
+        <item>Компанія</item>
+    </string-array>
+</resources>

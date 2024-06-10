@@ -1,0 +1,7 @@
+{
+  "AdminSettings": {
+    "BootstrapServers": "localhost:9092",
+    "KafkaTopic": "apz",
+    "AuthorizationAdress": "https://localhost:7292/User/checkUser"
+  }
+}
